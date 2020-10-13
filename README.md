@@ -66,4 +66,4 @@ go build -o pascra
 
 ## License
 
-Distributed under the MIT License. See `LICENSE` for more information.
+Fuck licenses, use it how you wish! Open source ftw #HTP
