@@ -2,7 +2,7 @@
 <!-- logo --> <div align="center"><a href="https://github.com/z89/"><img width="600px" height="150px" src="/logo.png" alt="Logo"></a></div>
 <br>
 <div align="center">
-<img src="https://img.shields.io/badge/go-v1.15.2-blue?style=for-the-badge&logo=go"></img>
+<img src="https://img.shields.io/badge/go-v1.15.4-blue?style=for-the-badge&logo=go"></img>
 <img src="https://img.shields.io/badge/wget-v1.20.3-green?style=for-the-badge"></img>
 <img src="https://img.shields.io/badge/COLLY-v2.1.0-orange?style=for-the-badge"></img>
 <br>
@@ -14,8 +14,7 @@
 <p align="center">A pastebin.com web crawler to download <strong>ANY</strong> user pastes written in Go using <a href="https://github.com/gocolly/colly">colly</a> and <a href="https://www.gnu.org/software/wget/">wget</a></p>
 
 <br>
-<strong><p  align="center">z89 (Author): This is a beginner Go project for me to get introduced to learning Go. Lots of optimizations are still yet to be added, this is an early release for this alpha build! However the base functionality seems to be working fine. The code is <strong>horrible</strong>, but understand it was written in under 48 hours by someone who had never touched Go before! Enjoy :)</p></strong>
-
+<strong><p  align="center">z89 (Author): This is a beginner Go project for me to get introduced to learning Go. However the base functionality seems to be working fine. The code is horrible, but understand it was written in under 48 hours by someone who had never touched Go before! Enjoy :)</p></strong>
 <br>
 
 ## Installation
