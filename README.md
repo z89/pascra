@@ -6,7 +6,7 @@
 
 <img src="https://img.shields.io/badge/CODE%20QUALITY-D---blueviolet?style=for-the-badge&logo=codacy"></img>
 <img src="https://img.shields.io/badge/archlinux-supported-blue?style=for-the-badge"></img>
-<img src="https://img.shields.io/badge/windows-not%20supported-red?style=for-the-badge"></img>
+<img src="https://img.shields.io/badge/windows-not%20tested-red?style=for-the-badge"></img>
 </div>
 <br>
 <p align="center">A pastebin.com web crawler to download <strong>ANY</strong> user pastes written in Go using <a href="https://github.com/gocolly/colly">colly</a> and <a href="https://www.gnu.org/software/wget/">wget</a></p>
